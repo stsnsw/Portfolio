@@ -1,0 +1,21 @@
+
+body {
+    background: rgb(237, 218, 255);
+}
+.card-img-top {
+    padding-top: 5%;
+    
+}
+.container-fluid {
+    background-color: rgb(208, 208, 255);
+}
+p {
+    text-align: justify;
+}
+.contacts {
+    background: rgb(228, 208, 208);
+
+}
+h3 {
+    text-align: center;
+}
